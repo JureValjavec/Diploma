@@ -57,6 +57,7 @@ void SERCOM5_Handler (void)
 /******************* MAIN FUNCTION ENTRY *************************************/
 int main(void)
 {
+	/* Test bla bla*/
 	UINT bw;
 
 	SystemCoreClockUpdate();
